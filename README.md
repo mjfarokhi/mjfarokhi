@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  * this is just a test.
- * i hope i work on real projects soon.
  * blah blah blah
